@@ -44,4 +44,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/DevOps_Project:v${{ env.VERSION }}
+        tags: ${{ secrets.DOCKER_USERNAME }}/devops_project:v${{ env.VERSION }}
