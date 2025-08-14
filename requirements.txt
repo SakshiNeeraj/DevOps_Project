@@ -4,4 +4,4 @@ pandas==1.4.3
 numpy==1.23.0
 nltk==3.8.1
 scikit-learn==1.1.1
-Werkzeug==2.1.2
+Werkzeug==3.0.6
