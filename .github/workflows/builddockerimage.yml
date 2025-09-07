@@ -8,6 +8,7 @@ on:
       - requirements.txt
       - templates/**
       - .github/workflows/builddockerimage.yml
+  workflow_dispatch:
 
 jobs:
   build:
